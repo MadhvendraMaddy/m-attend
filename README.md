@@ -13,5 +13,6 @@ Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.svg)](h
 
 ## installation
 
+## How it works?
 
 
