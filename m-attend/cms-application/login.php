@@ -120,7 +120,7 @@ function redirect(){
     </div>
   </div>
 </div>
-hi
+hi ___
 </body>
 </html>
 <?php include('assets/js/js.php'); ?><!--default js -->
